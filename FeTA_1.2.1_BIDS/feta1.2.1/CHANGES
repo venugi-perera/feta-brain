@@ -1,0 +1,15 @@
+0.9.0 2019-10-1
+
+- unofficial distribution
+
+1.2.0 2020-08-31
+
+- label annotations revised based on initial user feedback
+- BIDS compatibility
+- resizing all images 256*256*256 voxels
+- updated PDF document on the annotations
+
+1.2.1 2021-04-13
+
+- changed description and license text
+
